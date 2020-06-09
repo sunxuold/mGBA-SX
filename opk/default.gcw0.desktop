@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=mGBA-SX
+Comment=GB/GBC/GBA Emulator
+Comment[fr]=脡mulateur GB/GBC/GBA
+Comment[es]=Emulador GB/GBC/GBA
+X-OD-Manual=manual-en.txt
+X-OD-Manual[es]=manual-es.txt
+X-OD-Manual[fr]=manual-fr.txt
+Icon=mgbasx
+Exec=mgba -b ./bios.bin %f
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=emulators;
+MimeType=application/x-gba-rom;application/x-gameboy-rom;application/x-gbc-rom;application/x-gzip;application/zip;application/gzip;;

@@ -1,0 +1,9 @@
+mGBA-SX Emulator for GB/GBC/GBA
+SX modify for GKD350h Version 0.91  build on 2020-06-09 
+
+Select+Start is menu Key
+
+X Y key use for repeat A B 
+
+- base on mGBA version 0.90, 2020-5-10
+mGBA is an emulator for running Game Boy Advance games. It also supports Game Boy and Game Boy Color games.It aims to be faster and more accurate than many existing Game Boy Advance emulators, as well as adding features that other emulators lack. 

@@ -1,0 +1,26 @@
+ export LD_LIBRARY_PATH=/opt/gkd350-toolchain/usr/lib
+ export LD_INCLUDE_PATH=/opt/gkd350-toolchain/usr/mipsel-gkd350-linux-uclibc/sysroot/usr/include
+ export C_INCLUDE_PATH=/opt/gkd350-toolchain/usr/mipsel-gkd350-linux-uclibc/sysroot/usr/include
+ 
+ 1
+2
+5
+8
+9
+10
+10-1
+SDL_GetNumVideoDrivers resut is  2
+SDL_GetCurrentVideoDriver resut is  fbdev
+SDL_CreateWindow resut is  0
+Could not SDL_CreateWindow : Could not initialize OpenGL / GLES library
+SDL_CreateRenderer resut is  0
+Could not SDL_CreateRenderer : Invalid window
+SDL_CreateTexture complete 0
+Could not SDL_CreateTexture : Invalid renderer
+SDL_LockTexture complete -1
+Could not SDL_LockTexture : Invalid texture
+11-1
+11-2
+11-3
+11-4
+11-5

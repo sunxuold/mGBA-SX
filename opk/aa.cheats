@@ -1,0 +1,82 @@
+[Ò»¶þÈý]
+Lv99=25664,63
+
+[Unlimited heart]
+ON=2563C,f6
+
+[Life value]
+ON=2562E,38,4
+
+[Energy value]
+ON=25636,38,4
+
+[Full card]
+ON=25674,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Full competence]
+ON=2572F,1,1,1,1,1,1,1,1
+
+[Weapon type]
+????=25640,1,1
+??=25640,0,0
+Knife=25640,1,0
+Axe=25640,2
+Holy Water=25640,3
+Stopwatch=25640,5
+Boomerang=25640,4
+
+[Transparent and invisible]
+OFF=0000,0
+ON=C0,63
+
+[Unlimited Jumping]
+ON=80,0
+
+[Invincibility]
+ON=C0,FF
+
+[HP]
+ON=2562E,E7,3
+
+[MAX HP]
+ON=25632,E7,3
+
+[SP]
+ON=25636,E7,3
+
+[MAX SP]
+ON=2563A,E7,3
+
+[HEART]
+ON=2563C,FF
+
+[MAX HEART]
+ON=2563E,FF
+
+[Special weapon]
+????=25640,1,1
+Knife=25640,1,0
+Axe=25640,2
+Holy Water=25640,3
+Stopwatch=25640,5
+Boomerang=25640,4
+
+[LV]
+ON=25664,63
+
+[Full card]
+ON=25674,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Display full DSS]
+ON=25688,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Ful ITEM]
+ON=256EC,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[Full MAGIC ITEM]
+ON=25730,1,1,1,1,1,1,1,1
+
+[GameInfo]
+Name=0007 - Castlevania - Circle of the Moon (J)
+System=GBA
+Text=0007 - Castlevania - Circle of the Moon (J)
