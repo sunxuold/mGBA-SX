@@ -7,7 +7,7 @@ mGBA-SX  base on mGBA do optimize for GKD 350h  major modify is：
 - 4，support full screen setting
 - 5，support chinese font 
  
-below is mGBA reagme
+below is mGBA readme
 -------------------------------------------------------------------------------
 mGBA
 ====
