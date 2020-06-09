@@ -1,4 +1,5 @@
 mGBA-SX 
+====
 
 mGBA-SX  base on mGBA do optimize for GKD 350h  major modify is：
 - 1，rewrite sync part totally removed multithread features for poor CPU
