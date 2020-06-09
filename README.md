@@ -1,3 +1,14 @@
+mGBA-SX 
+
+mGBA-SX  base on mGBA do optimize for GKD 350h  major modify is：
+1，rewrite sync part totally removed multithread features for poor CPU
+2，rewrite SDL part for menu display
+3，support cheat setting on menu
+4，support full screen setting
+5，support chinese font 
+ 
+below is mGBA reagme
+-------------------------------------------------------------------------------
 mGBA
 ====
 
